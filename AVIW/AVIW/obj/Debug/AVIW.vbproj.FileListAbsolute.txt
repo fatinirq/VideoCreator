@@ -1,0 +1,20 @@
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\bin\Debug\AVIW.exe
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\bin\Debug\AVIW.pdb
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\bin\Debug\AVIW.xml
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\bin\Debug\AForge.Video.dll
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\bin\Debug\AForge.dll
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\bin\Debug\AForge.Video.VFW.xml
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\bin\Debug\AForge.Video.xml
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\bin\Debug\AForge.xml
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\obj\Debug\AVIW.vbprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\obj\Debug\AVIW.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\obj\Debug\AVIW.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\obj\Debug\AVIW.vbproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\obj\Debug\AVIW.exe
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\obj\Debug\AVIW.xml
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\obj\Debug\AVIW.pdb
+c:\users\asus\documents\visual studio 2015\Projects\AVIW\AVIW\bin\Debug\AVIW.exe.config
+D:\Thesis\Presentation\AVIW\AVIW\bin\Debug\AVIW.exe.config
+D:\Thesis\Presentation\AVIW\AVIW\obj\Debug\AVIW.exe
+D:\Thesis\Presentation\AVIW\AVIW\obj\Debug\AVIW.xml
+D:\Thesis\Presentation\AVIW\AVIW\obj\Debug\AVIW.pdb
